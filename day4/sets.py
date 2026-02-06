@@ -1,0 +1,17 @@
+sets={123,"asd","bbf",654}
+print(sets)
+sets.add(676)
+sets.remove(654)
+print(sets)
+sets.discard(654)
+print(sets)
+sets.add("ramya")
+print(sets)
+sets.clear()
+print(sets)
+A={12,45,22,10}
+B={13,45,22,45}
+A.union(B)
+print(A)
+print(A.intersection(B))
+print(B.difference(A))
