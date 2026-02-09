@@ -1,0 +1,3 @@
+welcome to aiml internship 
+Python file handling.
+thank you for attending .

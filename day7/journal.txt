@@ -1,0 +1,3 @@
+Name:Amala,Daily Goal:Drink Water
+Name:Kruthi,Daily Goal:read books
+Name:Asha,Daily Goal:Jogging

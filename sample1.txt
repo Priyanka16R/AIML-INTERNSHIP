@@ -1,0 +1,2 @@
+
+File handling operations are read ,write,append 
