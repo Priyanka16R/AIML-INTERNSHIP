@@ -1,0 +1,11 @@
+import numpy as np
+arr= np.arange(24)
+print("original 1D array:")
+print(arr)
+reshaped=arr.reshape(4,3,2)
+print("\nReshaped array(4,3,2):")
+print(reshaped)
+transposed=reshaped.transpose(0,2,1)
+print("\n Transposed array:")
+print(transposed)
+print("Final shape:",transposed.shape)
